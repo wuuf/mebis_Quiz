@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">mebis-Das Zitate-Quiz</string>
+    <string name="menu_settings">Settings</string>
+    <string name="anweisung">Kennst Du den Urheber des gezeigten Spruchs?</string>
+
+</resources>

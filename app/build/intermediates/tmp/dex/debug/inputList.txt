@@ -1,0 +1,2 @@
+C:\Users\Mike\AndroidstudioProjects\Quiz\app\build\intermediates\classes\debug
+C:\Users\Mike\AndroidstudioProjects\Quiz\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-4d09486a336215d8d96edd293c29eff52ead1475.jar
